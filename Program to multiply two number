@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main() {
+    int a=10, b=5;
+    int multiply;
+    multiply=a*b;
+    printf("multiplication:%d\n", multiply);
+    return 0;
+}
