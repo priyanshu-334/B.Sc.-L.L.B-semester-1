@@ -15,9 +15,9 @@ int main (){
         if (ch>= '0' && ch<= '9'){
             printf("%c is a digit.\n", ch);
         } else if (ch >= 'a' && ch <= 'z'){
-            printf("%c is a consoment.\n", ch);
+            printf("%c is a consonant.\n", ch);
         } else {
-            printf("%c is neither a vowel , digit , nor consonent.\n", ch);
+            printf("%c is neither a vowel , digit , nor consonant.\n", ch);
         }
         break;
     }
